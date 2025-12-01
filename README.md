@@ -1,2 +1,2 @@
 # Forth-test-regression
-Looking for the correlation between ANTM, BNB-USD, and CL=F
+For a test purpose, looking for the correlation between ANTM, BNB-USD, and CL=F and the model significancy
